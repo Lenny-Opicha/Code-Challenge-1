@@ -1,0 +1,8 @@
+# Ignore system and dev environment folders
+.nvm/
+.pyenv/
+node_modules/
+.DS_Store
+
+# Optional: VS Code config
+.vscode/
